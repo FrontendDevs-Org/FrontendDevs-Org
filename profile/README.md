@@ -3,9 +3,9 @@
   
 </p>
 
-<h1 align="center">🎨 WebDevelopers-Org</h1>
+<h1 align="center"> 🎨👋 Hey! Nice to see you, I'm Benziane Younes.</h1>
 <p align="center">
-  Welcome to <strong>WebDevelopers-Org</strong> – a community for **frontend developers** building **pure HTML, CSS, and JavaScript projects**!<br>
+  Welcome to <strong>WebDevelopers-Org</strong> – An open-source GitHub organization for frontend developers to share projects, collaborate, and learn using techs pure HTML, CSS, JavaScript,!<br>
   Learn, build, and collaborate on real-world frontend projects.
 </p>
 
